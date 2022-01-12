@@ -1,10 +1,11 @@
 /*
-Create A Object Oriented program based on the functions of an ATM Card.
+An Object Oriented program based on the functions of an ATM Card.
 Functions:
 1. Activate Card
 2. Deposit Money
 3. Withdraw Money
 4. Check Balance
+Author : @ChaitanyaJoshiX
 */
 #include <iostream>
 #include <fstream>
