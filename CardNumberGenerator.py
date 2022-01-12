@@ -1,7 +1,6 @@
-# WAP to output a random 12 digit card number to a txt file
+# Outputs a random 12 digit card number to a txt file
 import random
 import os
-
 
 number = ""
 
